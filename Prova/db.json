@@ -1,0 +1,16 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "item": "Caneta"
+        },
+        {
+            "id": 2,
+            "item": "caderno"
+        },
+        {
+            "id": 3,
+            "item": "borracha"
+        }
+    ]
+}
